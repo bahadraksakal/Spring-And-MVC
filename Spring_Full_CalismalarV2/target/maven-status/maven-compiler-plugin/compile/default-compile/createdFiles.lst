@@ -1,0 +1,9 @@
+com\Spring_Full_CalismalarV2\SpringFullCalismalarV2Application.class
+com\Spring_Full_CalismalarV2\DataAccess\HibernateCityDal.class
+com\Spring_Full_CalismalarV2\Entities\City.class
+com\Spring_Full_CalismalarV2\SpringConfig\IocConfig.class
+com\Spring_Full_CalismalarV2\Business\CityManager.class
+com\Spring_Full_CalismalarV2\restApi\CityController.class
+com\Spring_Full_CalismalarV2\DataAccess\ICityDal.class
+com\Spring_Full_CalismalarV2\restApi\ProductsController.class
+com\Spring_Full_CalismalarV2\Business\ICityService.class
